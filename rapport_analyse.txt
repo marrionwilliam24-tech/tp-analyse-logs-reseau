@@ -1,0 +1,18 @@
+===== RAPPORT D'ANALYSE DES LOGS =====
+
+Total connexions : 84
+Succès : 59
+Échecs : 25
+
+Port le plus utilisé : 22 (22 fois)
+IP la plus active : 192.168.1.10 (6 connexions)
+
+Top 3 des ports :
+ - 22 : 22
+ - 443 : 11
+ - 80 : 10
+
+IP suspectes :
+ - 192.168.1.10 port 22 -> 6 échecs
+ - 192.168.1.20 port 21 -> 6 échecs
+ - 192.168.1.40 port 22 -> 6 échecs
