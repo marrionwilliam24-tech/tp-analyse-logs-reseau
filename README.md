@@ -20,7 +20,9 @@ Lancer l'analyse avec la commande :
 python analyse_logs.py
 
 2. En C
-  a. Compilation 
+   
+  a. Compilation
+  
 gcc analyse_logs.c -o analyse_logs
 
 b. Exécution
