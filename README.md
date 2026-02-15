@@ -22,6 +22,6 @@ python analyse_logs.py
 2. En C
   a. Compilation 
 gcc analyse_logs.c -o analyse_logs
-
+pour voir le resultat en C vous devez exécueter le fichier analyse_logs.exe que le programme va regenerer et une fois l'exécuter, il va vous creer un fichier txt avec le meme rapport que celui du programme python qui sera creé dans un dossier Rapport.
 b. Exécution
 ./analyse_logs
